@@ -1,0 +1,8 @@
+name: inspec-tutorial-master
+title: InSpec Tutorial
+maintainer: Emily Heath
+copyright: Emily Heath
+copyright_email: emilyaheath@gmail.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile exercise
+version: 0.1.0
